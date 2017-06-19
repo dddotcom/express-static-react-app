@@ -1,5 +1,9 @@
 # express-static-react-app
-Sample code to pair with [Accessing the MailChimp API with a Proxy Server and a Static React App (Parts 1-3)](https://codeburst.io/accessing-the-mailchimp-api-with-a-proxy-server-and-a-static-react-app-part-1-dd07329f1155)
+Sample code to pair with **Accessing the MailChimp API with a Proxy Server and a Static React App** Series
+
+* [Part 1](https://codeburst.io/accessing-the-mailchimp-api-with-a-proxy-server-and-a-static-react-app-part-1-dd07329f1155)
+* [Part 2](https://codeburst.io/accessing-the-mailchimp-api-with-a-proxy-server-and-a-static-react-app-part-2-2e4663645886)
+* [Part 3](https://codeburst.io/accessing-the-mailchimp-api-with-a-proxy-server-and-a-static-react-app-part-3-edbc205b2c60)
 
 ## Files 
 
